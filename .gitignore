@@ -10,3 +10,4 @@ wheels/
 .venv
 main.py
 .env
+.DS_Store
